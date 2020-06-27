@@ -1,3 +1,5 @@
+![Toilet Paper](https://github.com//kwanjames0/anti-toilet-paper-hoarder-flutter/blob/master/assets/icon/icon_paper_logo_circle.png?raw=true)
+
 # e-Toilet Paper App
 
 This is a silly little app that was created as part of the Flutter community Hackathon 2020.
@@ -26,3 +28,4 @@ flutter clean
 flutter pub get
 flutter run
 ```
+
