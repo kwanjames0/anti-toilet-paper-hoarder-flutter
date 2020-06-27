@@ -1,6 +1,12 @@
-# anti_toilet_paper_hoarder
+![Toilet Paper](https://github.com//kwanjames0/anti-toilet-paper-hoarder-flutter/blob/master/assets/icon/icon_paper_logo_circle.png?raw=true)
 
-Stop hoarding toilet rolls, try using virtual toilet rolls to satisfy your toilet paper needs. 
+# e-Toilet Paper App
+
+This is a silly little app that was created as part of the Flutter community Hackathon 2020.
+
+## Why is this needed?
+
+Well... It is probably not needed but it was my first time using flutter!
 
 ## Getting Started
 
@@ -14,3 +20,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Running the code
+
+```
+flutter clean
+flutter pub get
+flutter run
+```
+
