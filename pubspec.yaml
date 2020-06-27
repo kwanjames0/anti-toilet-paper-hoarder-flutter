@@ -24,15 +24,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_svg: 0.17.4
+  google_fonts: 1.1.0
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  flutter_launcher_icons: "^0.7.0"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -74,3 +73,15 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+
+  fonts:
+    - family: IndieFlower
+      fonts:
+        - asset: assets/fonts/IndieFlower-Regular.ttf
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/icon/icon_paper_logo_circle.png"
+  image_path_android: "assets/icon/icon_paper_logo_circle.png"
