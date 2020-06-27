@@ -33,6 +33,6 @@ flutter run
 
 Interactive Swipe left and Right on toilet paper to remove the paper.
 
-![Toilet Paper](https://github.com//kwanjames0/anti-toilet-paper-hoarder-flutter/blob/master/assets/app_screenshot.png?raw=true)
+![Screenshot](https://github.com/kwanjames0/anti-toilet-paper-hoarder-flutter/blob/add_image/assets/app_screenshot.png?raw=true)
 
 
