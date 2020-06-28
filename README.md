@@ -4,7 +4,7 @@
 
 This is a silly little app that was created as part of the Flutter community Hackathon 2020.
 
-![Alt Text](https://github.com/kwanjames0/anti-toilet-paper-hoarder-flutter/blob/gif/assets/toiletroll.gif?raw=true)
+![Alt Text](https://github.com/kwanjames0/anti-toilet-paper-hoarder-flutter/blob/master/assets/toiletroll.gif?raw=true)
 
 ## Why is this needed?
 
