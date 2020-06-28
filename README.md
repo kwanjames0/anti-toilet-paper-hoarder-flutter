@@ -4,6 +4,8 @@
 
 This is a silly little app that was created as part of the Flutter community Hackathon 2020.
 
+![Alt Text](https://github.com/kwanjames0/anti-toilet-paper-hoarder-flutter/blob/gif/assets/toiletroll.gif?raw=true)
+
 ## Why is this needed?
 
 Well... It is probably not needed but it was my first time using flutter!
@@ -34,5 +36,9 @@ flutter run
 Interactive Swipe left and Right on toilet paper to remove the paper.
 
 ![Screenshot](https://github.com/kwanjames0/anti-toilet-paper-hoarder-flutter/blob/add_image/assets/app_screenshot.png?raw=true)
+
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
